@@ -26,7 +26,7 @@ print the count
 ## PROGRAM:
 Developed by: anbuselvam
 RegisterNumber: 22009081
-
+```
 f=open("sample1.txt","r")
 wc=0
 for line in f:
@@ -34,6 +34,7 @@ for line in f:
     wc=wc+len(word)
 print("word count is:",wc)
 f.close()
+```
 
 ### OUTPUT:
 ![output](/Screenshot%20(75).png)
