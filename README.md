@@ -38,6 +38,8 @@ f.close()
 
 ### OUTPUT:
 ![output](/Screenshot%20(75).png)
+![Screenshot (84)](https://user-images.githubusercontent.com/119559871/215133249-06b87e9f-5039-4e97-90cc-4c8e91bcb6dc.png)
+
 
 
 
