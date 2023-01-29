@@ -24,8 +24,8 @@ print the count
 
 
 ## PROGRAM:
-Developed by: anbuselvam
-RegisterNumber: 22009081
+Developed by: rakesh
+RegisterNumber: 22008590
 ```
 f=open("sample1.txt","r")
 wc=0
